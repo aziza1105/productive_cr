@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143717055201",
+    "project_id": "productive-cr",
+    "storage_bucket": "productive-cr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143717055201:android:f458affdf3e01c4a6a55a0",
+        "android_client_info": {
+          "package_name": "com.example.productive_cr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzO_dRr88WLarZzCFoDFPt_xCoD-OCOr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
